@@ -1,0 +1,11 @@
+{
+	"id": "prompt-mixer-langchain-exa-openai-connector",
+	"name": "LangChain Exa Connector",
+	"version": "1.0.0",
+	"minAppVersion": "0.1.0",
+	"description": "LangChain Exa-OpenAI connector leverages web search and flexible AI abstractions to power intelligent agents.",
+	"author": "Prompt Mixer",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
